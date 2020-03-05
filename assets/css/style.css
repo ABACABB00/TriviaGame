@@ -1,0 +1,38 @@
+.answerchoose {
+	border: 1px solid black;
+    border-radius: 5%;
+	width: 40%;
+	color: black;
+    text-align: center;
+    margin: 10px auto;
+    font-size: 20px;
+    background-color: white;
+}
+
+img {
+    max-height: 250px;
+    width: auto;
+}
+
+#answer-buttons {
+    text-align: center;
+}
+
+#quote {
+    text-align: center;
+    font-weight: bold;
+}
+
+.container {
+    margin: 10px auto;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 2px solid #403fd3;
+    height: 500px;
+    width: 60%;
+    text-align: center;
+  }
+
+.btn {
+    position: relative;
+    bottom: -150px;
+}
