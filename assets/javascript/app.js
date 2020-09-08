@@ -121,19 +121,19 @@ var quotes = [
     {
         quote: 'The definition of insanity is doing the same thing over and over again and expecting a different result.',
         choice: ['Albert Einstein', 'Stephan Hawking', 'Nikola Tesla', 'Sigmund Freud'],
-        answer: 3,
+        answer: 0,
         photo: 'assets/images/albert.jpg'
      },
      {
         quote: 'Give me six hours to chop down a tree and I will spend the first four sharpening the axe.',
         choice: ['Isaac Newton', 'Abraham Lincoln', 'Dwight D. Eisenhower', 'Harrison Ford'],
-        answer: 2,
+        answer: 1,
         photo: 'assets/images/abraham.jpg'
      }, 
      {
          quote: 'Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.',
         choice: ['Carl Sagan', 'Arostotle', 'Dr.Seuss', 'Robin Wiliams'],
-        answer: 1,
+        answer: 2,
         photo: 'assets/images/seuss.jpg'
     }, 
     {
@@ -145,25 +145,25 @@ var quotes = [
     {
         quote: 'Wanting to be someone else is a waste of who you are.',
         choice: ['Kurt Cobain', 'Dave Grohl', 'Janis Joplin', 'John Steinbeck'],
-        answer: 3,
+        answer: 0,
         photo: 'assets/images/kurt.jpg'
     }, 
     {
         quote: 'This above all: to thine own self be true.',
         choice: ['Oscar Wilde', 'William Shakespeare', 'Confucius', 'Edgar Allan Poe'],
-        answer: 2,
+        answer: 1,
         photo: 'assets/images/shake.jpg'
     }, 
     {
         quote: 'I haven’t failed. I’ve just found 10,000 ways that won’t work.',
         choice: ['Alan Turing', 'Samuel L. Jackson', 'Thomas Edison', 'C.S. Lewis'],
-        answer: 1,
+        answer: 2,
         photo: 'assets/images/Edison.jpg'
     }, 
     {
         quote:  'Life is what happens when you are busy making other plans.',
         choice: ['John Lennon', 'Johnny Depp', 'Terence McKenna', 'Marilyn Monroe'],
-        answer: 3,
+        answer: 0,
         photo: 'assets/images/lennon.jpg'
     },
     {
@@ -175,25 +175,25 @@ var quotes = [
     {
         quote: 'The only impossible journey is the one you never begin.',
         choice: ['Tony Robbins', 'Will Smith', 'Alan Watts', 'Sun Tzu'],
-        answer: 3,
+        answer: 0,
         photo: 'assets/images/robins.jpg'
     },
     {
         quote: 'Love the life you live. Live the life you love.',
         choice: ['Bob Marley', 'Benjamin Franklin', 'Leonardo DiCaprio', 'Eckhart Tolle'],
-        answer: 3,
+        answer: 0,
         photo: 'assets/images/marley.jpg'
     },
     {
         quote: 'Life is made of ever so many partings welded together.',
         choice: ['Lana Del Rey', 'Charles Darwin', 'Charles Dickens', 'Tom Hanks'],
-        answer: 1,
+        answer: 2,
         photo: 'assets/images/dickens.jpg'
     },
     {
         quote: 'Life is trying things to see if they work.',
         choice: ['Ray Bradbury', 'Billie Eilish', 'Immanuel Kant', 'Morgan Freeman'],
-        answer: 3,
+        answer: 0,
         photo: 'assets/images/bradbury.jpg'
     },
     {
@@ -211,31 +211,31 @@ var quotes = [
     {
         quote: 'The question isnt who is going to let me; its who is going to stop me.',
         choice: ['Elvis Presley', 'Ayn Rand', 'Mark Twain', 'Friedrich Nietzsche'],
-        answer: 2,
+        answer: 1,
         photo: 'assets/images/rand.jpg'
     },
     {
         quote:  'Whether you think you can or you think you cant, youre right.',
         choice: ['Ed Sheeran', 'Stephen King', 'Henry Ford', 'Winston Churchill'],
-        answer: 1,
+        answer: 2,
         photo: 'assets/images/ford.jpg'
     },
     {
         quote: 'I would rather die of passion than of boredom.',
         choice: ['Vincent van Gogh', 'Pablo Picasso', 'Mona Lisa', 'Lady Gaga'],
-        answer: 3,
+        answer: 0,
         photo: 'assets/images/gogh.jpg'
     },
     {
         quote: 'Great minds discuss ideas; average minds discuss events; small minds discuss people.',
         choice: ['Eleanor Roosevelt', 'Micheal Jackson', 'Ernest Hemingway', 'Neil deGrasse Tyson'],
-        answer: 3,
+        answer: 0,
         photo: 'assets/images/roosevelt.jpeg'
     },
     {
         quote: 'Only put off until tomorrow what you are willing to die having left undone.',
         choice: ['Pablo Picasso', 'Vincent van Gogh', 'Leonardo de Vinci', 'Frida Kahlo'],
-        answer: 3,
+        answer: 0,
         photo: 'assets/images/picasso.jpg'
     }];
    
